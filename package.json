@@ -4,7 +4,7 @@
   "description": "Homework 11 for UofR's Full Stack Bootcamp",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
